@@ -1,6 +1,6 @@
 ﻿# 					 *git与github微型指南*![](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
-首先创建一个[github账号](https://github.com/)，并下载好[git客户端](https://git-scm.com/downloads)。注册登录账号之后你得到了一个名为https://github.com/YourUserName的账号，在该页面点击Repositories（储存库），然后在右侧界面点击一个绿色的按钮New跳转到创建新项目页面（都是些很简单的英文，而且使用谷歌浏览器可以在需要翻译的页面下鼠标点击，选择翻译成简体中文）。在创建新项目页面下的Repository name输入框写下你的项目名称，Description 可写可不写，默认为公有目录（public），然后点击Create Repository创建项目就完成了。如果你是按我的教程步骤来运行的话就是这样，其实也可以添加自述文件和许可证，不过这样的话你在本地初始化应用后要先拉取。
+首先创建一个[github账号](https://github.com/)，并下载好[git客户端](https://git-scm.com/downloads)。注册登录账号之后你得到了一个名为github.com/YourUserName的账号，在该页面点击Repositories（储存库），然后在右侧界面点击一个绿色的按钮New跳转到创建新项目页面。都是些很简单的英文，而且使用谷歌浏览器可以在需要翻译的页面下鼠标点击，选择翻译成简体中文。在创建新项目页面下的Repositoryname输入框写下你的项目名称，Description可写可不写，默认为公有目录（public），然后点击Create Repository创建项目就完成了。如果你是按我的教程步骤来运行的话就是这样，其实也可以添加自述文件和许可证，不过这样的话你在本地初始化应用后要先拉取。
 
 1.初始化应用
 
