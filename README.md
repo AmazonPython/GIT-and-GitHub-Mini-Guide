@@ -94,4 +94,4 @@ git fetch "branch name" 与 git merge "branch name"（该命令等于手动合�
 git clone "project address"（比如 git clone https://github.com/Test/test.git 。该命令将把名为test的项目克隆到你的本地目录，去clone任何你喜欢的项目吧。）
 ```
 
-这个微型指南到这就结束了，好好享受吧，Good lucky!
+这个微型指南到这就结束了，最后推荐一个可以可视化在线练习git分支管理的网站[learngitbranching](https://learngitbranching.js.org/)，好好享受吧，Good luck!
